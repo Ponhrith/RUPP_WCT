@@ -1,0 +1,24 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "fullname": "Sok San",
+      "gender": "Male"
+    },
+    {
+      "id": 2,
+      "fullname": "Mey Mey",
+      "gender": "Female"
+    },
+    {
+      "fullname": "Name 1",
+      "gender": "Male",
+      "id": 3
+    },
+    {
+      "fullname": "Name 2",
+      "gender": "Female",
+      "id": 4
+    }
+  ]
+}
