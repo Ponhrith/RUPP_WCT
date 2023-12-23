@@ -18,10 +18,14 @@ function Nav() {
                             </Link>
                         </li>
                         <li className="nav-item">
-                            <a className="nav-link px-lg-3 py-3 py-lg-4" href="about.html">About</a>
+                        <Link to="/about" className="nav-link px-lg-3 py-3 py-lg-4">
+                                About
+                            </Link>
                         </li>
                         <li className="nav-item">
-                            <a className="nav-link px-lg-3 py-3 py-lg-4" href="post.html">Sample Post</a>
+                        <Link to="/samplepost" className="nav-link px-lg-3 py-3 py-lg-4">
+                                Sample Post
+                            </Link>
                         </li>
                         <li className="nav-item">
                             <Link to="/contact" className="nav-link px-lg-3 py-3 py-lg-4">
